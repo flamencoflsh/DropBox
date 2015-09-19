@@ -16,8 +16,8 @@ Tasks Completed:
 - [x] Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
 - [x] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
 
-GIF walkthrough of all required stories:<br>
+GIF walkthrough of all required stories:<br><br>
 ![Alt text](https://github.com/flamencoflsh/Dropbox/blob/master/Dropbox/Assets.xcassets/DropBox.gif)
 
-GIF walkthrough including optional tasks:<br>
+GIF walkthrough including optional tasks:<br><br>
 ![Alt text](https://github.com/flamencoflsh/Dropbox/blob/master/Dropbox/Assets.xcassets/DropBoxV2.gif)
