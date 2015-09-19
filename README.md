@@ -1,7 +1,7 @@
 # Dropbox
 
-Time Spent: 12 hours
--
+Time Spent: 12 hours<br>
+
 Tasks Completed: 
 - [x] REQ: User can tap through the 3 welcome screens.
 - [x] REQ: User can follow the create user flow.
